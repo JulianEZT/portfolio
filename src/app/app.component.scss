@@ -1,0 +1,13 @@
+div{
+  height: 100vh;
+  background-color: #d1f2eb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  span{
+    display: flex;
+    gap: 10px;
+  }
+}
